@@ -1,6 +1,6 @@
 # LEE JEYI's GITHUB 😄
 ---
-![header](https://capsule-render.vercel.app/api?type=waving&color=c2dfbd&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=c2dfbd&height=300&section=header&text=Nice%20to%20meet%20you&fontSize=90)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c2dfbd&lines=HI+IM+JAY&font=Redressed&size=25)](https://git.io/typing-svg)
 
@@ -11,7 +11,6 @@
 ![r](https://img.shields.io/badge/r-276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 ![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
-![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=for-the-badge&logo=Pytorch&logoColor=white)
 
 ## 💪Github stats
 ![JEYI2's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEYI2&theme=gruvbox_light&show_icons=true)
