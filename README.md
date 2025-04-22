@@ -1,7 +1,6 @@
 # LEE JEYI's GITHUB 😄
 ---
-![header](https://capsule-render.vercel.app/api?type=waving&color=c2dfbd&height=140&section=header&text=Nice%20to%20meet%20you&fontSize=40)
-![header](https://capsule-render.vercel.app/api?type=waving&color=c2dfbd&customColorList=10&height=200&text=SEUNGKYU's%20GITHUB&fontSize=40&fontAlign=72&fontAlignY=33&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=c2dfbd&height=140&section=header&text=Nice%20to%20meet%20you&fontSize=40&fontAlignY=33&animation=twinkling)
 
 <div align=right>
 
