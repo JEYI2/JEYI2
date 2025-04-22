@@ -8,4 +8,4 @@
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 ![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
 
-![JEYI2's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEYI2&theme=dark&show_icons=true)
+![JEYI2's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEYI2&theme=gruvbox_light&show_icons=true)
