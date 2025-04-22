@@ -1,4 +1,4 @@
-# LEE JEYI 😄
+# LEE JEYI's GITHUB 😄
 ---
 ![header](https://capsule-render.vercel.app/api?type=waving&color=c2dfbd&height=300&section=header&text=capsule%20render&fontSize=90)
 
@@ -13,4 +13,5 @@
 ![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=for-the-badge&logo=Pytorch&logoColor=white)
 
+## 💪Github stats
 ![JEYI2's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEYI2&theme=gruvbox_light&show_icons=true)
