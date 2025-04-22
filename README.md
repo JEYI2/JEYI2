@@ -18,8 +18,6 @@
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 ![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
 
-## 💪Github stats
-![JEYI2's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEYI2&theme=gruvbox_light&show_icons=true)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=c2dfbd&height=120&animation=fadeIn&section=footer&text=🌳🌳🌳&fontAlign=70">
