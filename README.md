@@ -1,6 +1,6 @@
 # LEE JEYI's GITHUB 😄
 ---
-![header](https://capsule-render.vercel.app/api?type=waving&color=c2dfbd&height=300&section=header&text=Nice%20to%20meet%20you&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=c2dfbd&height=100&section=header&text=Nice%20to%20meet%20you&fontSize=80)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=020202&lines=HI+IM+JAY&font=Redressed&size=25)](https://git.io/typing-svg)
 
