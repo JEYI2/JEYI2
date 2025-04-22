@@ -1,7 +1,7 @@
 ## LEE JEYI 😄
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7CFC00&lines=HI+IM+JAY&font=Redressed&size=40)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=99d189&lines=HI+IM+JAY&font=Redressed&size=40)](https://git.io/typing-svg)
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
