@@ -9,4 +9,4 @@
 ![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
 
 ![JEYI2's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEYI2&theme=gruvbox_light&show_icons=true)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dkssud8150&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dkssud8150&theme=gruvbox_light)
