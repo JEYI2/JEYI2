@@ -1,4 +1,5 @@
 ## LEE JEYI 😄
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=HI+IM+JAY&font=Redressed&size=40)](https://git.io/typing-svg)
 
 
