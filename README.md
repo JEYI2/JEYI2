@@ -1,11 +1,7 @@
-# 🌱 Jay's GitHub Profile
-
-<div align="center">
-  
-# Hi there,I'm Jay!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
-</div>
-
+# 🌱 Jay's GitHub Profile <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
 ---
+
+
 ## 👨‍💻 About Me
 
 - 🌱 I'm a passionate developer who loves **data, AI, and clean design**  
