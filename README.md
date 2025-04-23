@@ -20,6 +20,7 @@
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00.svg?&style=for-the-badge&logo=Colab&logoColor=white)
 
 #### Data Analysis Frameworks
 ![scikit-learn](https://img.shields.io/badge/scikit-learn-F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white)
