@@ -1,4 +1,4 @@
-# LEE JEYI's GITHUB 😄
+# Jay's GITHUB 
 ---
 ![header](https://capsule-render.vercel.app/api?type=waving&color=c2dfbd&height=140&section=header&text=Nice%20to%20meet%20you&fontSize=40&fontAlignY=33&animation=twinkling)
 
