@@ -29,7 +29,7 @@
 
 
 #### platform
-<a href="https://velog.io/@dlwpdl0323">![velog](https://img.shields.io/badge/velog-20C997.svg?&style=for-the-badge&logo=velog&logoColor=white)
+<a href="https://velog.io/@dlwpdl0323">![velog](https://img.shields.io/badge/velog-20C997.svg?&style=for-the-badge&logo=velog&logoColor=white)</a>
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 ![github](https://img.shields.io/badge/github-150458.svg?&style=for-the-badge&logo=github&logoColor=white)
 
