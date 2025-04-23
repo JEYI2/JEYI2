@@ -21,6 +21,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 
+#### ML Frameworks
 ![scikit-learn](https://img.shields.io/badge/scikit-learn-F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 #### collaboration platform
