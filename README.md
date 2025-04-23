@@ -35,7 +35,6 @@
 ---
 
 <div align="center">
-  <h2>🌳 Thanks for visiting! 🌳</h2>
-  <img src="https://media.giphy.com/media/S8TzUKzRPjepzJx37U/giphy.gif" width="150">
+  <h1> Thanks for visiting! <img src="https://media.giphy.com/media/S8TzUKzRPjepzJx37U/giphy.gif" width="150">
 </div>
 
