@@ -2,9 +2,7 @@
 
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=c2dfbd&height=180&section=header&text=Hi%20there,%20I'm%20Jay!%20👋&fontSize=45&fontAlignY=35&fontColor=ffffff&animation=fadeIn)
-
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
+# Hi there,I'm Jay!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
 </div>
 
 ---
