@@ -1,16 +1,24 @@
 # 🌱 Jay's GitHub Profile
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=c2dfbd&height=180&section=header&text=Nice%20to%20meet%20you!&fontSize=45&fontAlignY=35&animation=twinkling)
-
 <div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=c2dfbd&height=180&section=header&text=Hi%20there,%20I'm%20Jay!%20👋&fontSize=45&fontAlignY=35&fontColor=ffffff&animation=fadeIn)
+
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
 </div>
 
 ---
+## 👨‍💻 About Me
 
+- 🌱 I'm a passionate developer who loves **data, AI, and clean design**  
+- 🧠 I'm deeply into **data analysis, machine learning, and R/Python**  
+- 📍 Based in Seoul, South Korea 🇰🇷  
+- ✨ I believe in **writing elegant code with purpose and empathy**
+
+---
 ## 🚀 Skills
 
-### 🧠 Programming Languages
+### 🧠 Programming Languages 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)
 
