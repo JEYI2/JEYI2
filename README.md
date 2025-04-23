@@ -35,7 +35,8 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=c2dfbd&height=120&animation=fadeIn&section=footer&text=🌳%20Thanks%20for%20visiting!%20🌳&fontSize=30&fontAlign=70">
+  
+## 🌳 Thanks for visiting! 🌳
 
   <img src="https://media.giphy.com/media/S8TzUKzRPjepzJx37U/giphy.gif" width="150">
 </p>
