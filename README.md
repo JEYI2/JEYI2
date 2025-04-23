@@ -26,6 +26,7 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
+<img src="https://img.shields.io/badge/Matplotlib-4B64F4?style=for-the-badge"> 
 
 ### 🌐 Platforms & Blogs
 [![Velog](https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@dlwpdl0323)
