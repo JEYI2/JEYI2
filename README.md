@@ -35,6 +35,6 @@
 ---
 
 <div align="center">
-  <h1> Thanks for visiting! <img src="https://media.giphy.com/media/S8TzUKzRPjepzJx37U/giphy.gif" width="80">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=50&section=header&text=Thanks&nbsp;for&nbsp;visiting!&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=55">
 </div>
 
