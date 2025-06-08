@@ -24,6 +24,7 @@
 
 ### 📊 Data Analysis
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Scipy](https://img.shields.io/badge/Scipy-8CAAE6.svg?&style=for-the-badge&logo=Scipy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
 <img src="https://img.shields.io/badge/Matplotlib-4B64F4?style=for-the-badge"> 
