@@ -32,7 +32,7 @@
 
 ### 🌐 Platforms & Blogs
 [![Velog](https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@dlwpdl0323)
-![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)(https://www.notion.so/Hong-gildong-1dcc9428371380a4bca2c28fc25cf4e2)
+[![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Hong-gildong-1dcc9428371380a4bca2c28fc25cf4e2)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
 
 ---
