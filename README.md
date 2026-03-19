@@ -26,6 +26,7 @@
 ![n8n](https://img.shields.io/badge/n8n-EA4B71.svg?&style=for-the-badge&logo=n8n&logoColor=white)
 
 ### 📊 Data Analysis
+![Looker studio](https://img.shields.io/badge/Looker--studio-4285F4.svg?&style=for-the-badge&logo=Looker&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Scipy](https://img.shields.io/badge/Scipy-8CAAE6.svg?&style=for-the-badge&logo=Scipy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
