@@ -24,6 +24,12 @@
 
 ### 🤖AI
 ![n8n](https://img.shields.io/badge/n8n-EA4B71.svg?&style=for-the-badge&logo=n8n&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C.svg?&style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-000000.svg?&style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4.svg?&style=for-the-badge&logo=google&logoColor=white)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-FF6F00.svg?&style=for-the-badge&logo=google&logoColor=white)
+![Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-4285F4.svg?&style=for-the-badge&logo=googlecloud&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000.svg?&style=for-the-badge&logo=cursor&logoColor=white)
 
 ### 📊 Data Analysis
 ![Looker studio](https://img.shields.io/badge/Looker--studio-4285F4.svg?&style=for-the-badge&logo=Looker&logoColor=white)
